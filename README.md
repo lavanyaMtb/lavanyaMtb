@@ -2,7 +2,7 @@
 
 I'm a **Founding Engineer** working at the intersection of **Backend Engineering, Distributed Systems, and Artificial Intelligence**.
 
-Currently building at **[Rivet Dating](https://www.rivetdating.com/) (Meanttobe Inc.)**, where I've been working since August 2025.
+Currently building at **[Rivet Dating](https://www.rivetdating.com/) (Meanttobe Inc.)**, where I've been working since Mid 2025.
 
 I enjoy building products from the ground up — from system architecture and backend infrastructure to intelligent features powered by AI. My interests span distributed systems, scalable infrastructure, agentic AI, machine learning, and robotics.
 
