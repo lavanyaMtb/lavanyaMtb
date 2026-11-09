@@ -60,11 +60,11 @@ Building a social discovery and dating platform from the ground up.
 
 ## 📊 GitHub Stats
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sirius1b&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lavanyaMtb&theme=default)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sirius1b&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lavanyaMtb&theme=default)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sirius1b&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lavanyaMtb&theme=default)
 
 ## 📚 Interests
 
